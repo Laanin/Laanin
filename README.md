@@ -58,5 +58,5 @@ Entusiasta de tecnologia com atuação abrangente em desenvolvimento web, arquit
 
 ### 📫 Como me encontrar
 
-* **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-* **E-mail:** [seu-email@exemplo.com](mailto:mmentoringco@gmail.com)
+* **LinkedIn:** [linkedin.com/in/wanderlan-m](https://linkedin.com/in/wanderlan-m)
+* **E-mail:** [mmentoringco@gmail.com](mailto:mmentoringco@gmail.com)
